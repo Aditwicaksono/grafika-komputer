@@ -1,6 +1,8 @@
 # grafika-komputer
 Tugas Grafika komputer - M Aditya Wicaksono
-pertemuan 2 - membuat program sederhana dengan menampilkan nama
+
+-pertemuan 2 - membuat program sederhana dengan menampilkan nama
+
 pertemuan 3 - membuat titik-titik naik turun dan membuat silang x dengan menggunakan delphi
 pertemuan 4 - membuat bangun datar menggunakan delphi
 pertemuan 5 - membuat pemandangan gunung dengan matahari setengah lingkaran dan jalan menggunakan prosesing dan kelompok membuat namgun primitif
